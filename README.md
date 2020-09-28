@@ -8,3 +8,11 @@ This work was completed as part of an [MIT SUpply Chain Management](https://scm.
 
 A copy of the source files were put here to help complete the MIT Humanitarian Supply Chain source code library. Their original GitHub repository is located here:
 https://github.com/optimization-network/vaccination-networks/blob/master/Final%20model.ipynb  
+
+---
+# Toy Model:
+This code was used to develope the initial problem and state its characteristics. The objective of understanding the basic factors that would
+influence the optimal network design and served as a tool to guide our discussions with stakeholders. The toy model was tested in a small-scale problem with fictitious data.
+
+# Final Model:
+The final model built on the toy model by incorporating variable outreach site capacity and costs. Actual data from UNICEF and the Gambia was incorporated.
