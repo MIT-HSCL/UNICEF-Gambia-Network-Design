@@ -6,7 +6,7 @@ This work was completed as part of an [MIT SUpply Chain Management](https://scm.
 - Henrique Ribeiro Carretti https://www.linkedin.com/in/hrcarretti/
 - Yuto Hashimoto: https://www.linkedin.com/in/yuto-hashimoto-2b529917a/
 
-A copy of the source files were put here to help complete the MIT Humanitarian Supply Chain source code library. Their original GitHub repository is located here:
+A copy of the source files were put here to help complete the MIT Humanitarian Supply Chain source code library. Contributions should be made at the original GitHub repository is located here:
 https://github.com/optimization-network/vaccination-networks/blob/master/Final%20model.ipynb  
 
 ---
