@@ -11,7 +11,7 @@ https://github.com/optimization-network/vaccination-networks/blob/master/Final%2
 
 ---
 # Toy Model:
-This code was used to develope the initial problem and state its characteristics. The objective of understanding the basic factors that would
+This code was used to develop the initial problem and state its characteristics. The objective of understanding the basic factors that would
 influence the optimal network design and served as a tool to guide our discussions with stakeholders. The toy model was tested in a small-scale problem with fictitious data.
 
 # Final Model:
